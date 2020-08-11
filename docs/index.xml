@@ -48,15 +48,6 @@
     </item>
     
     <item>
-      <title>Encargo 04 Macetero</title>
-      <link>https://constanzaalvarez.github.io/docs/encargo-04-macetero/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://constanzaalvarez.github.io/docs/encargo-04-macetero/</guid>
-      <description>Macetero a partir de materiales reciclados.</description>
-    </item>
-    
-    <item>
       <title>Bonus 03</title>
       <link>https://constanzaalvarez.github.io/docs/bonus-03/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -66,12 +57,30 @@
     </item>
     
     <item>
+      <title>Encargo 04 Macetero</title>
+      <link>https://constanzaalvarez.github.io/docs/encargo-04-macetero/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://constanzaalvarez.github.io/docs/encargo-04-macetero/</guid>
+      <description>Macetero a partir de materiales reciclados.</description>
+    </item>
+    
+    <item>
       <title>Configuración</title>
       <link>https://constanzaalvarez.github.io/docs/configuracion/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://constanzaalvarez.github.io/docs/configuracion/</guid>
       <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
+    </item>
+    
+    <item>
+      <title>Objetivos del Curso</title>
+      <link>https://constanzaalvarez.github.io/docs/objetivos/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://constanzaalvarez.github.io/docs/objetivos/</guid>
+      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
     </item>
     
     <item>
@@ -90,15 +99,6 @@
       
       <guid>https://constanzaalvarez.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Objetivos del Curso</title>
-      <link>https://constanzaalvarez.github.io/docs/objetivos/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://constanzaalvarez.github.io/docs/objetivos/</guid>
-      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
     </item>
     
     <item>

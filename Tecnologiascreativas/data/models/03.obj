@@ -1,0 +1,244 @@
+# Rhino
+
+mtllib 03.mtl
+usemtl Roble claro pulido
+# - trim loop
+vp 0 0
+vp 10 0
+cstype bezier
+deg 1
+curv2 1 2
+parm u 0 10
+end
+vp 10 0
+vp 10 10
+cstype bezier
+deg 1
+curv2 3 4
+parm u 0 10
+end
+vp 10 10
+vp 0 10
+cstype bezier
+deg 1
+curv2 5 6
+parm u 0 10
+end
+vp 0 10
+vp 0 0
+cstype bezier
+deg 1
+curv2 7 8
+parm u 0 10
+end
+v -3.0303670387310437 0.30303670387310444 2.7446647162546611
+v 3.0303670387310429 0.30303670387310444 2.7446647162546611
+v -3.0303670387310437 0.30303670387310444 -2.744664716254662
+v 3.0303670387310429 0.30303670387310444 -2.744664716254662
+cstype bspline
+deg 1 1
+surf 0 10 0 10 1 2 3 4
+parm u 0 0 10 10
+parm v 0 0 10 10
+trim 0 10 1 0 10 2 0 10 3 0 10 4
+end
+# - trim loop
+vp -10 0
+vp 0 0
+cstype bezier
+deg 1
+curv2 9 10
+parm u -10 0
+end
+vp 0 0
+vp 0 1
+cstype bezier
+deg 1
+curv2 11 12
+parm u 0 1
+end
+vp 0 1
+vp -10 1
+cstype bezier
+deg 1
+curv2 13 14
+parm u -10 0
+end
+vp -10 1
+vp -10 0
+cstype bezier
+deg 1
+curv2 15 16
+parm u 0 1
+end
+v 3.0303670387310429 0.30303670387310455 2.7446647162546611
+v -3.0303670387310437 0.30303670387310455 2.7446647162546611
+v 3.0303670387310429 -0.303036703873104 2.7446647162546611
+v -3.0303670387310437 -0.303036703873104 2.7446647162546611
+cstype bspline
+deg 1 1
+surf -10 0 0 1 5 6 7 8
+parm u -10 -10 0 0
+parm v 0 0 1 1
+trim -10 0 5 0 1 6 -10 0 7 0 1 8
+end
+# - trim loop
+vp -10 0
+vp 0 0
+cstype bezier
+deg 1
+curv2 17 18
+parm u -10 0
+end
+vp 0 0
+vp 0 1
+cstype bezier
+deg 1
+curv2 19 20
+parm u 0 1
+end
+vp 0 1
+vp -10 1
+cstype bezier
+deg 1
+curv2 21 22
+parm u -10 0
+end
+vp -10 1
+vp -10 0
+cstype bezier
+deg 1
+curv2 23 24
+parm u 0 1
+end
+v 3.0303670387310429 0.30303670387310455 -2.744664716254662
+v 3.0303670387310429 0.30303670387310455 2.7446647162546611
+v 3.0303670387310429 -0.303036703873104 -2.744664716254662
+v 3.0303670387310429 -0.303036703873104 2.7446647162546611
+cstype bspline
+deg 1 1
+surf -10 0 0 1 9 10 11 12
+parm u -10 -10 0 0
+parm v 0 0 1 1
+trim -10 0 9 0 1 10 -10 0 11 0 1 12
+end
+# - trim loop
+vp -10 0
+vp 0 0
+cstype bezier
+deg 1
+curv2 25 26
+parm u -10 0
+end
+vp 0 0
+vp 0 1
+cstype bezier
+deg 1
+curv2 27 28
+parm u 0 1
+end
+vp 0 1
+vp -10 1
+cstype bezier
+deg 1
+curv2 29 30
+parm u -10 0
+end
+vp -10 1
+vp -10 0
+cstype bezier
+deg 1
+curv2 31 32
+parm u 0 1
+end
+v -3.0303670387310437 0.30303670387310455 -2.744664716254662
+v 3.0303670387310429 0.30303670387310455 -2.744664716254662
+v -3.0303670387310437 -0.303036703873104 -2.744664716254662
+v 3.0303670387310429 -0.303036703873104 -2.744664716254662
+cstype bspline
+deg 1 1
+surf -10 0 0 1 13 14 15 16
+parm u -10 -10 0 0
+parm v 0 0 1 1
+trim -10 0 13 0 1 14 -10 0 15 0 1 16
+end
+# - trim loop
+vp -10 0
+vp 0 0
+cstype bezier
+deg 1
+curv2 33 34
+parm u -10 0
+end
+vp 0 0
+vp 0 1
+cstype bezier
+deg 1
+curv2 35 36
+parm u 0 1
+end
+vp 0 1
+vp -10 1
+cstype bezier
+deg 1
+curv2 37 38
+parm u -10 0
+end
+vp -10 1
+vp -10 0
+cstype bezier
+deg 1
+curv2 39 40
+parm u 0 1
+end
+v -3.0303670387310437 0.30303670387310455 2.7446647162546611
+v -3.0303670387310437 0.30303670387310455 -2.744664716254662
+v -3.0303670387310437 -0.303036703873104 2.7446647162546611
+v -3.0303670387310437 -0.303036703873104 -2.744664716254662
+cstype bspline
+deg 1 1
+surf -10 0 0 1 17 18 19 20
+parm u -10 -10 0 0
+parm v 0 0 1 1
+trim -10 0 17 0 1 18 -10 0 19 0 1 20
+end
+# - trim loop
+vp 0 0
+vp 10 0
+cstype bezier
+deg 1
+curv2 41 42
+parm u 0 10
+end
+vp 10 0
+vp 10 10
+cstype bezier
+deg 1
+curv2 43 44
+parm u 0 10
+end
+vp 10 10
+vp 0 10
+cstype bezier
+deg 1
+curv2 45 46
+parm u 0 10
+end
+vp 0 10
+vp 0 0
+cstype bezier
+deg 1
+curv2 47 48
+parm u 0 10
+end
+v -3.0303670387310437 -0.30303670387310422 2.7446647162546611
+v 3.0303670387310429 -0.30303670387310422 2.7446647162546611
+v -3.0303670387310437 -0.30303670387310422 -2.744664716254662
+v 3.0303670387310429 -0.30303670387310422 -2.744664716254662
+cstype bspline
+deg 1 1
+surf 0 10 0 10 21 22 23 24
+parm u 0 0 10 10
+parm v 0 0 10 10
+trim 0 10 21 0 10 22 0 10 23 0 10 24
+end

@@ -1,0 +1,244 @@
+# Rhino
+
+mtllib 1-2.mtl
+usemtl Yeso (1)
+# - trim loop
+vp 0 0
+vp 2 0
+cstype bezier
+deg 1
+curv2 1 2
+parm u 8 10
+end
+vp 2 0
+vp 2 2
+cstype bezier
+deg 1
+curv2 3 4
+parm u 10 12
+end
+vp 2 2
+vp 0 2
+cstype bezier
+deg 1
+curv2 5 6
+parm u 12 14
+end
+vp 0 2
+vp 0 0
+cstype bezier
+deg 1
+curv2 7 8
+parm u 14 16
+end
+v -0.40000000000000002 0 4
+v 2.4000000000000004 0 4
+v -0.40000000000000002 0 -2
+v 2.4000000000000004 0 -2
+cstype bspline
+deg 1 1
+surf 0 2 0 2 1 2 3 4
+parm u 0 0 2 2
+parm v 0 0 2 2
+trim 8 10 1 10 12 2 12 14 3 14 16 4
+end
+# - trim loop
+vp 0 0
+vp 2 0
+cstype bezier
+deg 1
+curv2 9 10
+parm u 8 10
+end
+vp 2 0
+vp 2 2
+cstype bezier
+deg 1
+curv2 11 12
+parm u 10 12
+end
+vp 2 2
+vp 0 2
+cstype bezier
+deg 1
+curv2 13 14
+parm u 12 14
+end
+vp 0 2
+vp 0 0
+cstype bezier
+deg 1
+curv2 15 16
+parm u 14 16
+end
+v -0.40000000000000002 4 4
+v 2.4000000000000004 4 4
+v -0.40000000000000002 4 -2
+v 2.4000000000000004 4 -2
+cstype bspline
+deg 1 1
+surf 0 2 0 2 5 6 7 8
+parm u 0 0 2 2
+parm v 0 0 2 2
+trim 8 10 5 10 12 6 12 14 7 14 16 8
+end
+# - trim loop
+vp 0 0
+vp 2 0
+cstype bezier
+deg 1
+curv2 17 18
+parm u 0 2
+end
+vp 2 0
+vp 2 4
+cstype bezier
+deg 1
+curv2 19 20
+parm u 0 4
+end
+vp 2 4
+vp 0 4
+cstype bezier
+deg 1
+curv2 21 22
+parm u 0 2
+end
+vp 0 4
+vp 0 0
+cstype bezier
+deg 1
+curv2 23 24
+parm u 0 4
+end
+v -0.40000000000000002 0 4
+v 2.4000000000000004 0 4
+v -0.40000000000000002 4 4
+v 2.4000000000000004 4 4
+cstype bspline
+deg 1 1
+surf 0 2 0 4 9 10 11 12
+parm u 0 0 2 2
+parm v 0 0 4 4
+trim 0 2 9 0 4 10 0 2 11 0 4 12
+end
+# - trim loop
+vp 2 0
+vp 4 0
+cstype bezier
+deg 1
+curv2 25 26
+parm u 2 4
+end
+vp 4 0
+vp 4 4
+cstype bezier
+deg 1
+curv2 27 28
+parm u 0 4
+end
+vp 4 4
+vp 2 4
+cstype bezier
+deg 1
+curv2 29 30
+parm u 2 4
+end
+vp 2 4
+vp 2 0
+cstype bezier
+deg 1
+curv2 31 32
+parm u 0 4
+end
+v 2.4000000000000004 0 4
+v 2.4000000000000004 0 -2
+v 2.4000000000000004 4 4
+v 2.4000000000000004 4 -2
+cstype bspline
+deg 1 1
+surf 2 4 0 4 13 14 15 16
+parm u 2 2 4 4
+parm v 0 0 4 4
+trim 2 4 13 0 4 14 2 4 15 0 4 16
+end
+# - trim loop
+vp 4 0
+vp 6 0
+cstype bezier
+deg 1
+curv2 33 34
+parm u 4 6
+end
+vp 6 0
+vp 6 4
+cstype bezier
+deg 1
+curv2 35 36
+parm u 0 4
+end
+vp 6 4
+vp 4 4
+cstype bezier
+deg 1
+curv2 37 38
+parm u 4 6
+end
+vp 4 4
+vp 4 0
+cstype bezier
+deg 1
+curv2 39 40
+parm u 0 4
+end
+v 2.4000000000000004 0 -2
+v -0.40000000000000002 0 -2
+v 2.4000000000000004 4 -2
+v -0.40000000000000002 4 -2
+cstype bspline
+deg 1 1
+surf 4 6 0 4 17 18 19 20
+parm u 4 4 6 6
+parm v 0 0 4 4
+trim 4 6 17 0 4 18 4 6 19 0 4 20
+end
+# - trim loop
+vp 6 0
+vp 8 0
+cstype bezier
+deg 1
+curv2 41 42
+parm u 6 8
+end
+vp 8 0
+vp 8 4
+cstype bezier
+deg 1
+curv2 43 44
+parm u 0 4
+end
+vp 8 4
+vp 6 4
+cstype bezier
+deg 1
+curv2 45 46
+parm u 6 8
+end
+vp 6 4
+vp 6 0
+cstype bezier
+deg 1
+curv2 47 48
+parm u 0 4
+end
+v -0.40000000000000002 0 -2
+v -0.40000000000000002 0 4
+v -0.40000000000000002 4 -2
+v -0.40000000000000002 4 4
+cstype bspline
+deg 1 1
+surf 6 8 0 4 21 22 23 24
+parm u 6 6 8 8
+parm v 0 0 4 4
+trim 6 8 21 0 4 22 6 8 23 0 4 24
+end

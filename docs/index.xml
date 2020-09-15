@@ -66,12 +66,30 @@
     </item>
     
     <item>
-      <title>Encargo 05 Molde</title>
+      <title>1 Examen - Investigación y Experimentación</title>
       <link>https://constanzaalvarez.github.io/docs/encargo-05-molde/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://constanzaalvarez.github.io/docs/encargo-05-molde/</guid>
       <description>Creación de molde 3D</description>
+    </item>
+    
+    <item>
+      <title>2 Examen - Roma, recipiente para plantas</title>
+      <link>https://constanzaalvarez.github.io/docs/encargo-05-molde-2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://constanzaalvarez.github.io/docs/encargo-05-molde-2/</guid>
+      <description>Creación de molde 3D</description>
+    </item>
+    
+    <item>
+      <title>Instalar Tema</title>
+      <link>https://constanzaalvarez.github.io/docs/instalar-tema/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://constanzaalvarez.github.io/docs/instalar-tema/</guid>
+      <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
     </item>
     
     <item>
@@ -90,15 +108,6 @@
       
       <guid>https://constanzaalvarez.github.io/docs/configuracion/</guid>
       <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
-    </item>
-    
-    <item>
-      <title>Instalar Tema</title>
-      <link>https://constanzaalvarez.github.io/docs/instalar-tema/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://constanzaalvarez.github.io/docs/instalar-tema/</guid>
-      <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
     </item>
     
     <item>
